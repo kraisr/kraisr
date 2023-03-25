@@ -76,10 +76,12 @@ export CLICOLOR=1
 export LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd
 
 autoload -U colors && colors
+# PS1="%{$fg[yellow]%}[%D{%f/%m/%y} %D{%L:%M:%S}] "     # time stamp
+
 PS1="%{$fg[green]%}%n%{$reset_color%}"  # username
 PS1+="@%{$fg[green]%}%m%{$reset_color%}"    # device 
 PS1+=":%{$fg[blue]%}%1~%{$reset_color%} %% "    # current working dir
-
+RPROMPT="[%D{%m/%y/%f} |%@]"     # Right justified date and time
 
 # Useful support for interacting with Terminal.app or other terminal programs
 [ -r "/etc/zshrc_$TERM_PROGRAM" ] && . "/etc/zshrc_$TERM_PROGRAM"
