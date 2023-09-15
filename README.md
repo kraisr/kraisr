@@ -12,8 +12,8 @@
 
 <h2 align="left">Contact me:</h3>
 
-<a href="https://www.linkedin.com/in/khoa-raisr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:khoa.raisr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/khoa-raisr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:khoa.raisr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=kraisr&count_private=true&show_icons=true&theme=tokyonight" alt="kraisr" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraisr&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" alt="kraisr" /> |
 | ------------- | ------------- |
