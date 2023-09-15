@@ -1,14 +1,19 @@
 <h1 align="center">👋 Hi, I'm Khoa</h1>
 
-<h3 align="left">About me:</h3>
+<h2 align="left">About me:</h3>
 
 - 🎓 Student at Purdue University
   
-- 💻 Majoring in Computer Science
+- 💻 Major: Computer Science
 
 - 👨‍💻 Concentrations: Software Engineering, Systems Programming, Machine Learning
 
 - 🚂 Class of 2025
+
+<h2 align="left">Contact me:</h3>
+
+<a href="https://www.linkedin.com/in/khoa-raisr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:khoa.raisr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=kraisr&count_private=true&show_icons=true&theme=tokyonight" alt="kraisr" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraisr&count_private=true&show_icons=true&theme=tokyonight&layout=compact&langs_count=8" alt="kraisr" /> |
 | ------------- | ------------- |
