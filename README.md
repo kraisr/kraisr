@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Khoa</h1>
 
-<h2 align="left">About me:</h3>
+<h2 align="left">About me:</h2>
 
 - 🎓 Student at Purdue University
   
@@ -10,7 +10,7 @@
 
 - 🚂 Class of 2025
 
-<h2 align="left">Contact me:</h3>
+<h2 align="left">Contact me:</h2>
 
 <a target="_blank" href="https://www.linkedin.com/in/khoa-raisr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a target="_blank" href="mailto:khoa.raisr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
