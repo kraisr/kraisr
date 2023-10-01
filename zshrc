@@ -78,10 +78,23 @@ export LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd
 autoload -U colors && colors
 # PS1="%{$fg[yellow]%}[%D{%f/%m/%y} %D{%L:%M:%S}] "     # time stamp
 
-PS1="%{$fg[green]%}%n%{$reset_color%}"  # username
-PS1+="@%{$fg[green]%}%m%{$reset_color%}"    # device 
-PS1+=":%{$fg[blue]%}%1~%{$reset_color%} %% "    # current working dir
+# PS1="%{$fg[green]%}%n%{$reset_color%}"  # username
+# PS1+="@%{$fg[green]%}%m%{$reset_color%}"    # device 
+# PS1+=":%{$fg[blue]%}%1~%{$reset_color%} %% "    # current working dir
 RPROMPT="[%D{%m/%f/%y} |%@]"     # Right justified date and time
 
 # Useful support for interacting with Terminal.app or other terminal programs
 [ -r "/etc/zshrc_$TERM_PROGRAM" ] && . "/etc/zshrc_$TERM_PROGRAM"
+
+parse_git_branch() {
+    git branch 2> /dev/null | sed -n -e 's/^\* \(.*\)/[\1]/p'
+}
+COLOR_DEF='%f'
+COLOR_USR='%F{112}'
+COLOR_DIR='%F{105}'
+COLOR_GIT='%F{160}'
+# About the prefixed `$`: https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_03.html#:~:text=Words%20in%20the%20form%20%22%24',by%20the%20ANSI%2DC%20standard.
+NEWLINE=$'\n'
+# Set zsh option for prompt substitution
+setopt PROMPT_SUBST
+export PROMPT='${COLOR_USR}%n@%M ${COLOR_DIR}%~ ${COLOR_GIT}$(parse_git_branch)${COLOR_DEF}${NEWLINE}%% '
