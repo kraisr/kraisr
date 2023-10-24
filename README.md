@@ -24,7 +24,7 @@
 
 <pre>
 <b>Currently</b>:
-- 🎓 B.S. in Computer Science Honors from <a href="https://cs.purdue.edu">Purdue University</a> [Aug. 2021- May 2025]
+- 🎓 B.S. in Computer Science Honors from <a href="https://cs.purdue.edu">Purdue University</a> [Aug. 2021 - May 2025]
   • Minor in Mathematics
   • Concentrations: Software Engineering, Systems Programming, Machine Learning
 
