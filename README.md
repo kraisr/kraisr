@@ -25,10 +25,11 @@
 <pre>
 <b>Currently</b>:
 - B.S. in Computer Science Honors from <a href="https://cs.purdue.edu">Purdue University</a> [Aug. 2021- May 2025]
-  - Minor in Mathematics
+  • Minor in Mathematics
 - Teaching Assistant for: 
-  - <a href="https://purdueusb.com/wiki/help-room">USB Help Room</a>
-  - <a href="https://catalog.purdue.edu/preview_course_nopop.php?catoid=7&coid=53846">CS 177</a> (Python Programming)
-  - <a href="https://www.cs.purdue.edu/academic-programs/courses/canonical/cs180.html">CS 180</a> (Object-Oriented Programming in Java)
-  - <a href="https://www.cs.purdue.edu/academic-programs/courses/canonical/cs251.html">CS 251</a> (Data Structures & Algorithms)
+  • <a href="https://purdueusb.com/wiki/help-room">USB Help Room</a>
+  • <a href="https://catalog.purdue.edu/preview_course_nopop.php?catoid=7&coid=53846">CS 177</a> (Python Programming)
+  • <a href="https://www.cs.purdue.edu/academic-programs/courses/canonical/cs180.html">CS 180</a> (Object-Oriented Programming in Java)
+  • <a href="https://www.cs.purdue.edu/academic-programs/courses/canonical/cs251.html">CS 251</a> (Data Structures & Algorithms)
 </pre>
+
