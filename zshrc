@@ -97,4 +97,4 @@ COLOR_GIT='%F{160}'
 NEWLINE=$'\n'
 # Set zsh option for prompt substitution
 setopt PROMPT_SUBST
-export PROMPT='${COLOR_USR}%n@%M ${COLOR_DIR}%~ ${COLOR_GIT}$(parse_git_branch)${COLOR_DEF}${NEWLINE}%% '
+export PROMPT='${COLOR_USR}%n@%M: ${COLOR_DIR}%~ ${COLOR_GIT}$(parse_git_branch)${COLOR_DEF}${NEWLINE}%% '
